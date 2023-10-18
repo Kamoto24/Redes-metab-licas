@@ -1,0 +1,10 @@
+id;name;compartment;charge;formula
+2agpg161_c;2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1);c;-1;C22H42O9P1
+2agpg161_p;2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1);p;-1;C22H42O9P1
+2agpg180_c;2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0);c;-1;C24H48O9P1
+2agpg180_p;2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0);p;-1;C24H48O9P1
+2agpg181_c;2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1);c;-1;C24H46O9P1
+2agpg181_p;2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1);p;-1;C24H46O9P1
+2ahbut_c;(S)-2-Aceto-2-hydroxybutanoate;c;-1;C6H9O4
+2amsa_c;2-Aminomalonate semialdehyde;c;0;C3H5NO3
+2aobut_c;L-2-Amino-3-oxobutanoate;c;0;C4H7NO3
